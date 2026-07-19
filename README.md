@@ -1,16 +1,135 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sejal2525/sejal2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there! 👋 I'm Sejal
 
-Here are some ideas to get you started:
+### 🚀 Computer Science Undergraduate • Building AI & Backend Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Building+AI-powered+Applications;Backend+Developer;AI+Agents+%7C+LLMs+%7C+Automation;Always+Learning.+Always+Building." />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sejal2525&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+```python
+class Sejal:
+
+    def __init__(self):
+        self.role = "Computer Science Undergraduate"
+
+        self.current_focus = [
+            "Backend Development",
+            "Artificial Intelligence",
+            "AI Agents",
+            "LLMs",
+            "Automation",
+            "Data Engineering"
+        ]
+
+        self.currently_learning = [
+            "FastAPI",
+            "Docker",
+            "PySpark",
+            "System Design",
+            "Cloud Computing"
+        ]
+
+        self.goal = "Build software that creates real-world impact."
+
+    def say_hi(self):
+        return "Always learning. Always building. 🚀"
+```
+
+---
+
+# 🚀 Currently Exploring
+
+- 🤖 Multi-Agent AI Systems
+- ⚡ AI Automation Workflows
+- 🌐 Backend Development
+- 📊 Data Engineering
+- ☁️ Cloud Technologies
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,firebase,supabase,mongodb"/>
+</p>
+
+### Cloud & Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,gcp"/>
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-0A66C2?style=for-the-badge"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sejal2525&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sejal2525&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejal2525&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *"The best way to predict the future is to build it."*
+
+⭐ Thanks for stopping by!
+
+</div>
