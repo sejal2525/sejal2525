@@ -1,16 +1,20 @@
 <div align="center">
 
-# SEJAL
+hi there, im sejal!
 
-```
+```python
+"""
 ────────────────────────────────────────────────────────────────────────────
 
-        Building AI • Backend Systems • Intelligent Automation
+Computer Science Undergraduate
+
+Building AI • Backend Systems • Intelligent Automation
 
 ────────────────────────────────────────────────────────────────────────────
+"""
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=3500&pause=1000&color=808080&center=true&vCenter=true&width=700&lines=building+cool+things.;breaking+them.;fixing+them.;repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=500&size=22&pause=1000&color=808080&center=true&vCenter=true&width=700&lines=building+cool+solutions.;breaking+them.;fixing+them.;repeat." />
 
 <br>
 
@@ -20,26 +24,28 @@
 
 ---
 
-# $ whoami
-
 ```python
+# profile.py
+
 class Sejal:
 
     def __init__(self):
 
         self.role = "Computer Science Undergraduate"
 
-        self.currently_building = [
-            "AI Applications",
-            "Backend Systems",
-            "Automation Workflows"
+        self.current_focus = [
+            "Backend Engineering",
+            "Artificial Intelligence",
+            "LLMs",
+            "AI Agents",
+            "Automation"
         ]
 
         self.currently_learning = [
             "FastAPI",
             "Docker",
             "System Design",
-            "Cloud"
+            "Cloud Computing"
         ]
 
         self.motto = "Build > Learn > Repeat"
@@ -47,145 +53,127 @@ class Sejal:
 
 ---
 
-# $ pwd
+```python
+# projects.py
 
-```
-/home/sejal
-│
-├── backend/
-├── ai/
-├── automation/
-├── research/
-└── coffee/
-```
+class Projects:
 
----
-
-# $ cat currently_doing.txt
-
-```
-[✓] Building AI-powered applications
-
-[✓] Learning backend engineering
-
-[✓] Exploring scalable systems
-
-[ ] Sleeping enough
+    completed = [
+        "PaperCheck",
+        "AI Web Intelligence Platform",
+        "Lung Cancer Detection",
+        "Cryptocurrency Fraud Detection"
+    ]
 ```
 
 ---
 
-# $ ls projects/
+```python
+# tech_stack.py
 
-```
-papercheck/
+class Programming:
 
-web-intelligence-platform/
-
-lung-cancer-detection/
-
-crypto-fraud-detection/
-```
-
----
-
-# $ tree tech_stack
-
-```
-Programming Languages
-│
-├── Python
-├── Java
-├── SQL
-└── C
+    languages = [
+        "Python",
+        "Java",
+        "SQL",
+        "C"
+    ]
 ```
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
 </p>
 
-```
-Backend
-│
-├── FastAPI
-├── Flask
-├── Firebase
-├── MongoDB
-└── Supabase
+```python
+class Backend:
+
+    frameworks = [
+        "FastAPI",
+        "Flask"
+    ]
+
+    databases = [
+        "MongoDB",
+        "Firebase",
+        "Supabase"
+    ]
 ```
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,firebase,mongodb,supabase"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb,firebase,supabase"/>
 </p>
 
-```
-Developer Tools
-│
-├── Git
-├── GitHub
-├── Docker
-├── VS Code
-└── Google Cloud
+```python
+class DeveloperTools:
+
+    tools = [
+        "Git",
+        "GitHub",
+        "Docker",
+        "VS Code",
+        "Google Cloud"
+    ]
 ```
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,gcp"/>
 </p>
 
-```
-Artificial Intelligence
-│
-├── PyTorch
-├── OpenCV
-├── NumPy
-├── Pandas
-├── Scikit-Learn
-├── LLMs
-└── AI Agents
+```python
+class ArtificialIntelligence:
+
+    libraries = [
+        "PyTorch",
+        "OpenCV",
+        "NumPy",
+        "Pandas",
+        "Scikit-Learn"
+    ]
+
+    interests = [
+        "LLMs",
+        "AI Agents",
+        "Automation"
+    ]
 ```
 
 <p>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=opencv"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn"/>
-
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,opencv,numpy,pandas,scikitlearn"/>
 </p>
 
 ---
 
-# $ uptime
+```python
+# progress.py
 
-```
-Learning AI           ██████████░   90%
+class CurrentStatus:
 
-Backend               █████████░░   82%
+    learning_progress = {
 
-Cloud                 ██████░░░░░   58%
+        "Artificial Intelligence" : "██████████░",
 
-System Design         ████░░░░░░░   43%
+        "Backend Engineering"     : "█████████░░",
 
-Coffee                ███████████  100%
+        "Cloud Computing"         : "██████░░░░",
+
+        "System Design"           : "████░░░░░░"
+
+    }
 ```
 
 ---
 
-# $ python motivation.py
-
 ```python
+# workflow.py
+
 while True:
 
     learn()
 
     build()
 
-    fail()
+    break_things()
 
     debug()
 
@@ -194,57 +182,91 @@ while True:
 
 ---
 
-# $ git log --oneline
+```python
+# mindset.py
 
-```
-3d92e6d  it finally works
+def debugging():
 
-7b0fa21  fixed a bug
+    if things_get_messy():
 
-0a13d1f  accidentally created two more
+        pause()
 
-b80ef93  "small change"
+        breathe()
 
-404bcaf  why is nothing working
+        think()
 
-2c81dbe  it works on my machine
-```
+        solve()
 
----
-
-# $ sudo sleep
-
-```
-Permission denied.
+    return "Everything eventually makes sense."
 ```
 
 ---
 
-# $ echo $FUN_FACTS
+```python
+# commit_history.py
 
-```
-Projects Built      :: 10+
+git_history = [
 
-Hackathons          :: 5+
+    "it finally works",
 
-Internships         :: 1+
+    "fixed a bug",
 
-Curiosity           :: Unlimited
+    "accidentally created another",
 
-Coffee              :: Required
+    "small refactor",
+
+    "why is this broken?",
+
+    "works on my machine"
+]
 ```
 
 ---
+
+```python
+# stats.py
+
+fun_facts = {
+
+    "projects"      : "10+",
+
+    "hackathons"    : "5+",
+
+    "internships"   : 1,
+
+    "curiosity"     : float("inf"),
+
+    "bugs_fixed"    : "countless",
+
+    "next_goal"     : "Build Something Better"
+}
+```
+
+---
+
+```python
+# main.py
+
+if __name__ == "__main__":
+
+    stay_curious()
+
+    stay_calm()
+
+    keep_building()
+```
 
 <div align="center">
 
-```
+```python
+"""
 ────────────────────────────────────────────────────────────────────────────
 
 "First, solve the problem.
 Then, write the code."
 
 ────────────────────────────────────────────────────────────────────────────
+"""
 ```
 
 </div>
