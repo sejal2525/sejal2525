@@ -92,41 +92,9 @@ class Sejal:
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sejal2525&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sejal2525&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejal2525&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
 
 ### 💡 *"The best way to predict the future is to build it."*
 
