@@ -1,103 +1,250 @@
 <div align="center">
 
-# Hey there! 👋 I'm Sejal
+# SEJAL
 
-### 🚀 Computer Science Undergraduate • Building AI & Backend Systems
+```
+────────────────────────────────────────────────────────────────────────────
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Building+AI-powered+Applications;Backend+Developer;AI+Agents+%7C+LLMs+%7C+Automation;Always+Learning.+Always+Building." />
+        Building AI • Backend Systems • Intelligent Automation
+
+────────────────────────────────────────────────────────────────────────────
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&duration=3500&pause=1000&color=808080&center=true&vCenter=true&width=700&lines=building+cool+things.;breaking+them.;fixing+them.;repeat." />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=sejal2525&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=sejal2525&style=flat-square&color=808080"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# $ whoami
 
 ```python
 class Sejal:
 
     def __init__(self):
+
         self.role = "Computer Science Undergraduate"
 
-        self.current_focus = [
-            "Backend Development",
-            "Artificial Intelligence",
-            "AI Agents",
-            "LLMs",
-            "Automation",
-            "Data Engineering"
+        self.currently_building = [
+            "AI Applications",
+            "Backend Systems",
+            "Automation Workflows"
         ]
 
         self.currently_learning = [
             "FastAPI",
             "Docker",
-            "PySpark",
             "System Design",
-            "Cloud Computing"
+            "Cloud"
         ]
 
-        self.goal = "Build software that creates real-world impact."
-
-    def say_hi(self):
-        return "Always learning. Always building. 🚀"
+        self.motto = "Build > Learn > Repeat"
 ```
 
 ---
 
-# 🚀 Currently Exploring
+# $ pwd
 
-- 🤖 Multi-Agent AI Systems
-- ⚡ AI Automation Workflows
-- 🌐 Backend Development
-- 📊 Data Engineering
-- ☁️ Cloud Technologies
+```
+/home/sejal
+│
+├── backend/
+├── ai/
+├── automation/
+├── research/
+└── coffee/
+```
 
 ---
 
-# 💻 Tech Stack
+# $ cat currently_doing.txt
 
-### Programming Languages
+```
+[✓] Building AI-powered applications
+
+[✓] Learning backend engineering
+
+[✓] Exploring scalable systems
+
+[ ] Sleeping enough
+```
+
+---
+
+# $ ls projects/
+
+```
+papercheck/
+
+web-intelligence-platform/
+
+lung-cancer-detection/
+
+crypto-fraud-detection/
+```
+
+---
+
+# $ tree tech_stack
+
+```
+Programming Languages
+│
+├── Python
+├── Java
+├── SQL
+└── C
+```
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
 </p>
 
-### Backend & Databases
+```
+Backend
+│
+├── FastAPI
+├── Flask
+├── Firebase
+├── MongoDB
+└── Supabase
+```
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,firebase,supabase,mongodb"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,firebase,mongodb,supabase"/>
 </p>
 
-### Cloud & Developer Tools
+```
+Developer Tools
+│
+├── Git
+├── GitHub
+├── Docker
+├── VS Code
+└── Google Cloud
+```
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,gcp"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,gcp"/>
 </p>
 
-### AI / Machine Learning
+```
+Artificial Intelligence
+│
+├── PyTorch
+├── OpenCV
+├── NumPy
+├── Pandas
+├── Scikit-Learn
+├── LLMs
+└── AI Agents
+```
 
 <p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Agents-0A66C2?style=for-the-badge"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=opencv"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn"/>
+
 </p>
 
 ---
 
+# $ uptime
 
+```
+Learning AI           ██████████░   90%
 
+Backend               █████████░░   82%
 
+Cloud                 ██████░░░░░   58%
 
-### 💡 *"The best way to predict the future is to build it."*
+System Design         ████░░░░░░░   43%
 
-⭐ Thanks for stopping by!
+Coffee                ███████████  100%
+```
+
+---
+
+# $ python motivation.py
+
+```python
+while True:
+
+    learn()
+
+    build()
+
+    fail()
+
+    debug()
+
+    build_again()
+```
+
+---
+
+# $ git log --oneline
+
+```
+3d92e6d  it finally works
+
+7b0fa21  fixed a bug
+
+0a13d1f  accidentally created two more
+
+b80ef93  "small change"
+
+404bcaf  why is nothing working
+
+2c81dbe  it works on my machine
+```
+
+---
+
+# $ sudo sleep
+
+```
+Permission denied.
+```
+
+---
+
+# $ echo $FUN_FACTS
+
+```
+Projects Built      :: 10+
+
+Hackathons          :: 5+
+
+Internships         :: 1+
+
+Curiosity           :: Unlimited
+
+Coffee              :: Required
+```
+
+---
+
+<div align="center">
+
+```
+────────────────────────────────────────────────────────────────────────────
+
+"First, solve the problem.
+Then, write the code."
+
+────────────────────────────────────────────────────────────────────────────
+```
 
 </div>
