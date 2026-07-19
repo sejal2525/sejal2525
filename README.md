@@ -96,8 +96,6 @@ class Builder:
 
 ### ✦ shipped
 
-⌁ papercheck — multi-agent handwritten answer evaluation
-
 ⌁ ai web intelligence platform
 
 ⌁ lung cancer detection using 3d deep learning
