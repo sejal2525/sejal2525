@@ -104,19 +104,6 @@ class Builder:
 
 ⌁ cryptocurrency fraud detection
 
----
-
-### ✦ milestones
-
-⌁ ai engineering intern @ actionpackd
-
-⌁ secretary @ women tech makers, rec
-
-⌁ creative associate @ google developer groups, rec
-
-⌁ ieee best paper award
-
-⌁ top track finalist @ vit chennai hackathon
 
 ---
 
